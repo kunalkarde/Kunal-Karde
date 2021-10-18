@@ -1,0 +1,28 @@
+#img-kunal{
+    margin-top:10px;
+    padding:20px;
+}
+#name-1{
+  margin-top: 20px;
+   padding: 30px;
+   text-align:center; 
+}
+#text-1{
+    margin-top: 20px;
+    margin-bottom:30px;
+    text-align: center;
+}
+.section{
+    text-align:center;
+    margin:10px auto;
+    padding:35px;
+    
+}
+.ow{
+    background-color: aliceblue;
+}
+.body{
+    background:linear-gradient(-45deg,#ee7652,#e73c7e,#23a605,#2305ab);
+    background-size: 400% 400%;
+    position: relative;
+}
